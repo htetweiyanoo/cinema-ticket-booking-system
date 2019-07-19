@@ -1,1 +1,1 @@
-# cinema-ticket-booking-syste
+# cinema-ticket-booking-system
